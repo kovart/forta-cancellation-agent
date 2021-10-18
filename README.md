@@ -1,7 +1,5 @@
 # Transaction Cancellation Agent
 
-> Please add me as a Agent Developer [Published] on Discord, my username is kovart#3924
-
 ## Description
 
 This agent monitors Ethereum network and detects possible cancellation transactions 
